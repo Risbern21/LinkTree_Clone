@@ -5,9 +5,8 @@ This is a simple Linktree clone built with React. It allows users to create a pe
 ## Features
 
 - Add multiple links with custom titles
-- Reorder links via drag-and-drop
 - Responsive design for mobile and desktop
-- Customizable themes and colors
+- Customizable background colors
 
 ## Installation
 
